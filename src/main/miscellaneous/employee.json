@@ -1,0 +1,23 @@
+{
+  "employeeId": 14,
+  "commissionPct": 0.0,
+  "email": "caro@email.com",
+  "firstName": "Carolina",
+  "hireDate": "2018-10-01 12:00:00",
+  "lastName": "Perez",
+  "phoneNumber": "1111-2222",
+  "salary": 11111.0,
+  "departments": null,
+  "department": null,
+  "job": {
+    "jobId": 13,
+    "jobTitle": "Programadora",
+    "maxSalary": 15000,
+    "minSalary": 10000,
+    "employees": null,
+    "jobHistories": null
+  },
+  "employee": null,
+  "employees": null,
+  "jobHistories": null
+}
